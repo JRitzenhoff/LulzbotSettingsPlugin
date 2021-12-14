@@ -1,8 +1,8 @@
 {
-    "name": "Z Offset plugin",
-    "author": "fieldOfView",
-    "version": "3.5.7",
-    "description": "Adds a Z Offset setting to change the distance between the nozzle and the buildplate",
+    "name": "Lulzbot Menu Plugin",
+    "author": "ritzenhoffj",
+    "version": "1.0.0",
+    "description": "Adds settings required for generating GCode a auto-leveling Lulzbot printer requires to operate as designed",
     "api": 5,
     "supported_sdk_versions": ["5.0.0", "6.0.0", "7.0.0"]
 }
