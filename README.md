@@ -53,8 +53,7 @@ The Taz 6 I'm using has a removable glass plate on it. It, however, also has rai
 The net additional offset between the two ends up being -1.0mm.
 
 This exceeds the Z-offset range in Cura "Build Plate Adhesion"
-. Therefore, this should be manipulated in the printer settings.
-    `Configuration >> Z-Offset >>`
+. Therefore, I also downloaded the ["Z Offset"](https://github.com/fieldOfView/Cura-ZOffsetPlugin) Plugin mentioned above and manipulated that value in Cura
 
 ## GCode
 
